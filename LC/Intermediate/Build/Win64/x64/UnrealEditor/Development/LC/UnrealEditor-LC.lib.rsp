@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-LC.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\LC\LC\Intermediate\Build\Win64\x64\LCEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"D:\LC\LC\Intermediate\Build\Win64\x64\UnrealEditor\Development\LC\LC.cpp.obj"
+"D:\LC\LC\Intermediate\Build\Win64\x64\UnrealEditor\Development\LC\Default.rc2.res"
+/OUT:"D:\LC\LC\Intermediate\Build\Win64\x64\UnrealEditor\Development\LC\UnrealEditor-LC.lib"

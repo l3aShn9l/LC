@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"D:\\LC\\LC\\Source\\LC\\LC.Build.cs",
+		"D:\\LC\\LC\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\AdvancedSessions.Build.cs",
+		"D:\\LC\\LC\\Plugins\\AdvancedSteamSessions\\Source\\AdvancedSteamSessions\\AdvancedSteamSessions.Build.cs",
+		"D:\\LC\\LC\\Source\\LC.Target.cs",
+		"D:\\LC\\LC\\Source\\LCEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}
